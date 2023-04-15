@@ -1,7 +1,7 @@
 ## Repository contains the following:
 
 	- The midi dataset:		 /dataset/midi_files
-	- The API: 				 /dataset/API.py
+	- The API: 			 /dataset/API.py
 	- A tutorial on API:		 /dataset/API_Tutorial.[ipynb and pdf]
 
 
